@@ -1,0 +1,2 @@
+../Src/sys.c:11:6:SysTick_Handler	4	static
+../Src/sys.c:15:6:SysTick_Delay	24	static
