@@ -1,0 +1,2 @@
+../Src/timer.c:10:6:Timer_Init	4	static
+../Src/timer.c:17:6:Timer_Delay	24	static
