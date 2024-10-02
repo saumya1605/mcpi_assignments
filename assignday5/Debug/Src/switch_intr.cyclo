@@ -1,0 +1,3 @@
+../Inc/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Src/switch_intr.c:10:6:SwitchInit	1
+../Src/switch_intr.c:32:6:EXTI0_IRQHandler	1

@@ -1,0 +1,3 @@
+../Inc/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/switch_intr.c:10:6:SwitchInit	8	static
+../Src/switch_intr.c:32:6:EXTI0_IRQHandler	4	static
