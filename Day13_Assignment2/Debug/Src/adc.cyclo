@@ -1,0 +1,2 @@
+../Src/adc.c:9:6:ADC_Init	1
+../Src/adc.c:27:10:ADC_GetValue	2

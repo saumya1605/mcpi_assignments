@@ -1,0 +1,2 @@
+../Src/systic.c:11:6:SysTick_Handler	4	static
+../Src/systic.c:15:6:SysTick_Delay	24	static
